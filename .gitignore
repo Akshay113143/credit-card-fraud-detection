@@ -1,0 +1,13 @@
+# Dataset (150 MB, Kaggle licence) - download it, see README
+data/*
+!data/README.md
+
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+.vscode/
+.idea/

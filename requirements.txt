@@ -1,0 +1,11 @@
+# Exact versions the results in README.md were produced with (Python 3.11).
+numpy==2.4.4
+pandas==3.0.2
+scikit-learn==1.8.0
+xgboost==3.2.0
+shap==0.51.0
+matplotlib==3.10.9
+seaborn==0.13.2
+pytest==9.1.1
+nbconvert==7.17.1
+ipykernel==7.3.0
